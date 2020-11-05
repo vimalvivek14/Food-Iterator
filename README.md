@@ -50,8 +50,8 @@ Develop a mobile application for users
 Add tracking system to the calories consumed every day
 
 List of Group members
-Vimal 
-Aisyah Hafidzah Abdul Razak
+Vimal, 
+Aisyah Hafidzah Abdul Razak,
 Elizabeth Ng Xin Yi
 References if any:
 www.fatsecret4j.com
